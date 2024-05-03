@@ -1,5 +1,5 @@
 Utilized Power BI to perform comprehensive analysis of sales data.
-
+-
 The analysis involved profit metrics across various dimensions:
 
 Conducted a monthly analysis to track profit by month.
